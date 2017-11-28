@@ -18,5 +18,11 @@ export const persons: PersonEntity[] = [
     name: "Ali",
     lastName: "KOLSARICI",
     scoring: ["o", "o", "t", "o", "o", "t", "o", "o", "o", "o", "t", "t", "o", "o", "t"]
+  },
+  {
+    ssn: 442,
+    name: "Someone",
+    lastName: "KOLSARICI",
+    scoring: ["t", "o", "t", "t", "t", "t", "t", "t", "t", "o", "t", "t", "o", "o", "t"]
   }
 ];
